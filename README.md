@@ -9,10 +9,7 @@
 - [Setup](#setup)
 - [Status](#status)
 - [Special Notes](#special-notes)
-- [Screenshots](#screenshots)
-- [Video Tutorial](#video-tutorial)
-- [Contact](#contact)
-- [License](#license)
+
 
 ### Info
 
