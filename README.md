@@ -1,4 +1,4 @@
-# [Youtube Uploader Bot](https://tx.me/youtubeitbot)
+# [Youtube Uploader Bot]
 
 > Simple [Telegram Bot](https://core.telegram.org/bots "Telegram Bots") to Upload videos to [Youtube](https://youtube.com "YouTube") written in Python3.
 
@@ -30,9 +30,6 @@ This is a simple hobby project which I was really curious about to implement. Th
 **Clone and setup virtual environment**
 
 ```bash
-$ git clone https://github.com/odysseusmax/utube.git
-
-$ cd utube
 
 $ python3 -m venv venv
 
@@ -95,31 +92,3 @@ This project is actively maintained and will continue so until I'm tired of it.
 - Uploading copyright contents will leads to immediate blocking of the video.
 
 - By default, all the videos are uploaded as private with random category id unless you provide `UPLOAD_MODE` and `VIDEO_CATEGORY`. You may change it after youtube processes the video.
-
-### Screenshots
-
-<p align="center">
-
-<img  width="25%" height="25%" src="./ss/overview.jpg">
-
-<img  width="25%" height="25%" src="./ss/bot-start.jpg">
-
-<img  width="25%" height="25%" src="./ss/bot-help.jpg">
-
-<img  width="25%" height="25%" src="./ss/bot-authorise.jpg">
-
-<img  width="25%" height="25%" alt="Upload" src="./ss/bot-upload.jpg">
-
-</p>
-
-### Video Tutorial
-
-Here's a YouTube tutorial video for deploying the bot on [Heroku](https://heroku.com/ "Heroku"). [Video Link](http://www.youtube.com/watch?v=LSs8b5dMWIA "Tutorial video for deploying to Heroku").
-
-### Contact
-
-You can contact me [@odysseusmax](https://telegram.dog/odysseusmax "odysseusmax").
-
-### License
-
-Code released under [GNU General Public License v3.0](LICENSE).
